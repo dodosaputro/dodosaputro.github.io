@@ -271,7 +271,7 @@ body {
   padding: 1rem 3rem;
   font-size: 1.7rem;
   color: #fff;
-  background-color: var(--primary);
+  background-color: greenyellow;
   cursor: pointer;
   border-radius: 0.5em;
 }
